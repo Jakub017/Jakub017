@@ -17,6 +17,7 @@ I'm a Full-Stack Web Developer focused on building modern **Laravel & Vue** appl
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![WCAG](https://img.shields.io/badge/WCAG-0A7CF5?style=for-the-badge&logoColor=white)
 
 ### CMS / E-commerce
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
